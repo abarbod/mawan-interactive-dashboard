@@ -1,0 +1,658 @@
+[
+  {
+    "month": 1,
+    "year": 2021,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 67,
+    "sum_invoices": 66685.01,
+    "avg_invoices": 995.298657
+  },
+  {
+    "month": 1,
+    "year": 2021,
+    "emp_name": "Nader",
+    "num_invoices": 99,
+    "sum_invoices": 80336.50,
+    "avg_invoices": 811.479798
+  },
+  {
+    "month": 2,
+    "year": 2021,
+    "emp_name": "Nader",
+    "num_invoices": 95,
+    "sum_invoices": 95199.50,
+    "avg_invoices": 1002.100000
+  },
+  {
+    "month": 2,
+    "year": 2021,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 46,
+    "sum_invoices": 43815.00,
+    "avg_invoices": 952.500000
+  },
+  {
+    "month": 3,
+    "year": 2021,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 125,
+    "sum_invoices": 128766.50,
+    "avg_invoices": 1030.132000
+  },
+  {
+    "month": 3,
+    "year": 2021,
+    "emp_name": "Nader",
+    "num_invoices": 162,
+    "sum_invoices": 143741.25,
+    "avg_invoices": 887.291667
+  },
+  {
+    "month": 4,
+    "year": 2021,
+    "emp_name": "Nader",
+    "num_invoices": 179,
+    "sum_invoices": 166223.48,
+    "avg_invoices": 928.622793
+  },
+  {
+    "month": 4,
+    "year": 2021,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 141,
+    "sum_invoices": 139020.50,
+    "avg_invoices": 985.960993
+  },
+  {
+    "month": 5,
+    "year": 2021,
+    "emp_name": "Nader",
+    "num_invoices": 13,
+    "sum_invoices": 5913.75,
+    "avg_invoices": 454.903846
+  },
+  {
+    "month": 5,
+    "year": 2021,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 108,
+    "sum_invoices": 91193.75,
+    "avg_invoices": 844.386574
+  },
+  {
+    "month": 5,
+    "year": 2021,
+    "emp_name": "Ahmed Barabbud",
+    "num_invoices": 31,
+    "sum_invoices": 22647.50,
+    "avg_invoices": 730.564516
+  },
+  {
+    "month": 6,
+    "year": 2021,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 95,
+    "sum_invoices": 88310.00,
+    "avg_invoices": 929.578947
+  },
+  {
+    "month": 6,
+    "year": 2021,
+    "emp_name": "Ahmed Barabbud",
+    "num_invoices": 38,
+    "sum_invoices": 28361.00,
+    "avg_invoices": 746.342105
+  },
+  {
+    "month": 7,
+    "year": 2021,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 22,
+    "sum_invoices": 18215.00,
+    "avg_invoices": 827.954545
+  },
+  {
+    "month": 7,
+    "year": 2021,
+    "emp_name": "Ahmed Barabbud",
+    "num_invoices": 62,
+    "sum_invoices": 49985.00,
+    "avg_invoices": 806.209677
+  },
+  {
+    "month": 7,
+    "year": 2021,
+    "emp_name": "Nahad",
+    "num_invoices": 27,
+    "sum_invoices": 22371.00,
+    "avg_invoices": 828.555556
+  },
+  {
+    "month": 8,
+    "year": 2021,
+    "emp_name": "Nahad",
+    "num_invoices": 77,
+    "sum_invoices": 68890.00,
+    "avg_invoices": 894.675325
+  },
+  {
+    "month": 8,
+    "year": 2021,
+    "emp_name": "Ahmed Barabbud",
+    "num_invoices": 79,
+    "sum_invoices": 71677.00,
+    "avg_invoices": 907.303797
+  },
+  {
+    "month": 9,
+    "year": 2021,
+    "emp_name": "Ahmed Barabbud",
+    "num_invoices": 74,
+    "sum_invoices": 65758.50,
+    "avg_invoices": 888.628378
+  },
+  {
+    "month": 9,
+    "year": 2021,
+    "emp_name": "Nahad",
+    "num_invoices": 41,
+    "sum_invoices": 36452.00,
+    "avg_invoices": 889.073171
+  },
+  {
+    "month": 9,
+    "year": 2021,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 18,
+    "sum_invoices": 8787.00,
+    "avg_invoices": 488.166667
+  },
+  {
+    "month": 10,
+    "year": 2021,
+    "emp_name": "Ahmed Barabbud",
+    "num_invoices": 31,
+    "sum_invoices": 33149.00,
+    "avg_invoices": 1069.322581
+  },
+  {
+    "month": 10,
+    "year": 2021,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 130,
+    "sum_invoices": 144131.00,
+    "avg_invoices": 1108.700000
+  },
+  {
+    "month": 10,
+    "year": 2021,
+    "emp_name": "Nader",
+    "num_invoices": 23,
+    "sum_invoices": 19957.00,
+    "avg_invoices": 867.695652
+  },
+  {
+    "month": 11,
+    "year": 2021,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 140,
+    "sum_invoices": 165975.00,
+    "avg_invoices": 1185.535714
+  },
+  {
+    "month": 11,
+    "year": 2021,
+    "emp_name": "Nader",
+    "num_invoices": 125,
+    "sum_invoices": 116952.00,
+    "avg_invoices": 935.616000
+  },
+  {
+    "month": 12,
+    "year": 2021,
+    "emp_name": "Nader",
+    "num_invoices": 179,
+    "sum_invoices": 166104.00,
+    "avg_invoices": 927.955307
+  },
+  {
+    "month": 12,
+    "year": 2021,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 188,
+    "sum_invoices": 205500.01,
+    "avg_invoices": 1093.085160
+  },
+  {
+    "month": 1,
+    "year": 2022,
+    "emp_name": "Nader",
+    "num_invoices": 78,
+    "sum_invoices": 84251.50,
+    "avg_invoices": 1080.147436
+  },
+  {
+    "month": 1,
+    "year": 2022,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 80,
+    "sum_invoices": 73320.00,
+    "avg_invoices": 916.500000
+  },
+  {
+    "month": 1,
+    "year": 2022,
+    "emp_name": "Ahmed Barabbud",
+    "num_invoices": 5,
+    "sum_invoices": 5005.00,
+    "avg_invoices": 1001.000000
+  },
+  {
+    "month": 2,
+    "year": 2022,
+    "emp_name": "Nader",
+    "num_invoices": 106,
+    "sum_invoices": 91604.02,
+    "avg_invoices": 864.188868
+  },
+  {
+    "month": 2,
+    "year": 2022,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 89,
+    "sum_invoices": 85883.99,
+    "avg_invoices": 964.988652
+  },
+  {
+    "month": 2,
+    "year": 2022,
+    "emp_name": "Ahmed Barabbud",
+    "num_invoices": 1,
+    "sum_invoices": 2725.00,
+    "avg_invoices": 2725.000000
+  },
+  {
+    "month": 3,
+    "year": 2022,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 255,
+    "sum_invoices": 270580.02,
+    "avg_invoices": 1061.098118
+  },
+  {
+    "month": 3,
+    "year": 2022,
+    "emp_name": "Nader",
+    "num_invoices": 285,
+    "sum_invoices": 263922.53,
+    "avg_invoices": 926.043965
+  },
+  {
+    "month": 4,
+    "year": 2022,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 204,
+    "sum_invoices": 183116.17,
+    "avg_invoices": 897.628284
+  },
+  {
+    "month": 4,
+    "year": 2022,
+    "emp_name": "Nader",
+    "num_invoices": 259,
+    "sum_invoices": 213667.60,
+    "avg_invoices": 824.971429
+  },
+  {
+    "month": 4,
+    "year": 2022,
+    "emp_name": "Ahmed Barabbud",
+    "num_invoices": 1,
+    "sum_invoices": 180.00,
+    "avg_invoices": 180.000000
+  },
+  {
+    "month": 5,
+    "year": 2022,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 118,
+    "sum_invoices": 92385.12,
+    "avg_invoices": 782.924746
+  },
+  {
+    "month": 5,
+    "year": 2022,
+    "emp_name": "Nader",
+    "num_invoices": 118,
+    "sum_invoices": 96432.45,
+    "avg_invoices": 817.224153
+  },
+  {
+    "month": 6,
+    "year": 2022,
+    "emp_name": "Ahmed Barabbud",
+    "num_invoices": 1,
+    "sum_invoices": 890.00,
+    "avg_invoices": 890.000000
+  },
+  {
+    "month": 6,
+    "year": 2022,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 135,
+    "sum_invoices": 103118.50,
+    "avg_invoices": 763.840741
+  },
+  {
+    "month": 6,
+    "year": 2022,
+    "emp_name": "Nader",
+    "num_invoices": 98,
+    "sum_invoices": 67874.94,
+    "avg_invoices": 692.601429
+  },
+  {
+    "month": 7,
+    "year": 2022,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 22,
+    "sum_invoices": 16304.98,
+    "avg_invoices": 741.135455
+  },
+  {
+    "month": 7,
+    "year": 2022,
+    "emp_name": "Nader",
+    "num_invoices": 148,
+    "sum_invoices": 118151.94,
+    "avg_invoices": 798.323919
+  },
+  {
+    "month": 7,
+    "year": 2022,
+    "emp_name": "Ahmed Barabbud",
+    "num_invoices": 1,
+    "sum_invoices": 385.00,
+    "avg_invoices": 385.000000
+  },
+  {
+    "month": 8,
+    "year": 2022,
+    "emp_name": "Nader",
+    "num_invoices": 202,
+    "sum_invoices": 178276.94,
+    "avg_invoices": 882.559109
+  },
+  {
+    "month": 8,
+    "year": 2022,
+    "emp_name": "Salah",
+    "num_invoices": 1,
+    "sum_invoices": 1200.00,
+    "avg_invoices": 1200.000000
+  },
+  {
+    "month": 9,
+    "year": 2022,
+    "emp_name": "Nader",
+    "num_invoices": 146,
+    "sum_invoices": 123562.83,
+    "avg_invoices": 846.320753
+  },
+  {
+    "month": 9,
+    "year": 2022,
+    "emp_name": "Ahmed Barabbud",
+    "num_invoices": 2,
+    "sum_invoices": 460.00,
+    "avg_invoices": 230.000000
+  },
+  {
+    "month": 9,
+    "year": 2022,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 90,
+    "sum_invoices": 78424.16,
+    "avg_invoices": 871.379556
+  },
+  {
+    "month": 10,
+    "year": 2022,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 151,
+    "sum_invoices": 162130.11,
+    "avg_invoices": 1073.709338
+  },
+  {
+    "month": 10,
+    "year": 2022,
+    "emp_name": "Nader",
+    "num_invoices": 155,
+    "sum_invoices": 157732.50,
+    "avg_invoices": 1017.629032
+  },
+  {
+    "month": 11,
+    "year": 2022,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 214,
+    "sum_invoices": 188270.09,
+    "avg_invoices": 879.766776
+  },
+  {
+    "month": 11,
+    "year": 2022,
+    "emp_name": "Nader",
+    "num_invoices": 205,
+    "sum_invoices": 203899.00,
+    "avg_invoices": 994.629268
+  },
+  {
+    "month": 11,
+    "year": 2022,
+    "emp_name": "Ahmed Barabbud",
+    "num_invoices": 1,
+    "sum_invoices": 232.00,
+    "avg_invoices": 232.000000
+  },
+  {
+    "month": 11,
+    "year": 2022,
+    "emp_name": "Mahmoud",
+    "num_invoices": 2,
+    "sum_invoices": 2280.00,
+    "avg_invoices": 1140.000000
+  },
+  {
+    "month": 11,
+    "year": 2022,
+    "emp_name": "Salah",
+    "num_invoices": 3,
+    "sum_invoices": 1480.00,
+    "avg_invoices": 493.333333
+  },
+  {
+    "month": 12,
+    "year": 2022,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 190,
+    "sum_invoices": 184957.00,
+    "avg_invoices": 973.457895
+  },
+  {
+    "month": 12,
+    "year": 2022,
+    "emp_name": "Salah",
+    "num_invoices": 7,
+    "sum_invoices": 5640.00,
+    "avg_invoices": 805.714286
+  },
+  {
+    "month": 12,
+    "year": 2022,
+    "emp_name": "Mahmoud",
+    "num_invoices": 2,
+    "sum_invoices": 1990.00,
+    "avg_invoices": 995.000000
+  },
+  {
+    "month": 12,
+    "year": 2022,
+    "emp_name": "Nader",
+    "num_invoices": 221,
+    "sum_invoices": 190487.00,
+    "avg_invoices": 861.932127
+  },
+  {
+    "month": 12,
+    "year": 2022,
+    "emp_name": "Ahmed Barabbud",
+    "num_invoices": 8,
+    "sum_invoices": 5752.70,
+    "avg_invoices": 719.087500
+  },
+  {
+    "month": 1,
+    "year": 2023,
+    "emp_name": "Nader",
+    "num_invoices": 154,
+    "sum_invoices": 135202.48,
+    "avg_invoices": 877.938182
+  },
+  {
+    "month": 1,
+    "year": 2023,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 129,
+    "sum_invoices": 96201.01,
+    "avg_invoices": 745.744264
+  },
+  {
+    "month": 1,
+    "year": 2023,
+    "emp_name": "Ahmed Barabbud",
+    "num_invoices": 2,
+    "sum_invoices": 650.00,
+    "avg_invoices": 325.000000
+  },
+  {
+    "month": 2,
+    "year": 2023,
+    "emp_name": "Nader",
+    "num_invoices": 133,
+    "sum_invoices": 161440.50,
+    "avg_invoices": 1213.838346
+  },
+  {
+    "month": 2,
+    "year": 2023,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 108,
+    "sum_invoices": 104045.00,
+    "avg_invoices": 963.379630
+  },
+  {
+    "month": 2,
+    "year": 2023,
+    "emp_name": "Ahmed Barabbud",
+    "num_invoices": 1,
+    "sum_invoices": 54.00,
+    "avg_invoices": 54.000000
+  },
+  {
+    "month": 2,
+    "year": 2023,
+    "emp_name": "Salah",
+    "num_invoices": 6,
+    "sum_invoices": 5911.50,
+    "avg_invoices": 985.250000
+  },
+  {
+    "month": 3,
+    "year": 2023,
+    "emp_name": "Nader",
+    "num_invoices": 591,
+    "sum_invoices": 473575.51,
+    "avg_invoices": 801.312200
+  },
+  {
+    "month": 3,
+    "year": 2023,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 450,
+    "sum_invoices": 380890.00,
+    "avg_invoices": 846.422222
+  },
+  {
+    "month": 4,
+    "year": 2023,
+    "emp_name": "Nader",
+    "num_invoices": 175,
+    "sum_invoices": 131533.00,
+    "avg_invoices": 751.617143
+  },
+  {
+    "month": 4,
+    "year": 2023,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 156,
+    "sum_invoices": 131145.00,
+    "avg_invoices": 840.673077
+  },
+  {
+    "month": 5,
+    "year": 2023,
+    "emp_name": "Nader",
+    "num_invoices": 162,
+    "sum_invoices": 121038.87,
+    "avg_invoices": 747.153519
+  },
+  {
+    "month": 5,
+    "year": 2023,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 170,
+    "sum_invoices": 129214.97,
+    "avg_invoices": 760.088059
+  },
+  {
+    "month": 6,
+    "year": 2023,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 224,
+    "sum_invoices": 177564.76,
+    "avg_invoices": 792.699821
+  },
+  {
+    "month": 6,
+    "year": 2023,
+    "emp_name": "Nader",
+    "num_invoices": 74,
+    "sum_invoices": 52517.93,
+    "avg_invoices": 709.701757
+  },
+  {
+    "month": 7,
+    "year": 2023,
+    "emp_name": "Nader",
+    "num_invoices": 237,
+    "sum_invoices": 199857.45,
+    "avg_invoices": 843.280380
+  },
+  {
+    "month": 8,
+    "year": 2023,
+    "emp_name": "Nader",
+    "num_invoices": 212,
+    "sum_invoices": 162418.36,
+    "avg_invoices": 766.124340
+  },
+  {
+    "month": 8,
+    "year": 2023,
+    "emp_name": "Alsayed Bader",
+    "num_invoices": 36,
+    "sum_invoices": 36019.96,
+    "avg_invoices": 1000.554444
+  }
+]
