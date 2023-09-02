@@ -43,6 +43,9 @@ if selected_year:
 if selected_month:
     df_filtered = df_filtered[df_filtered["month"].isin(selected_month)]
 
+if selected_Status:
+    df_filtered = df_filtered[df_filtered["status"].isin(selected_Status)]
+
 if exclude_statuses:  # New filtering logic
     df_filtered = df_filtered[~df_filtered['status'].isin(['Canceled', 'Returned', 'RETURN/REFUND'])]
 
@@ -116,3 +119,21 @@ st.pyplot(fig)
 
 # Additional functionalities can be added similarly
 
+# Data Table
+st.subheader("Filtered Data Table")
+st.write(df_filtered)
+
+# Download Button
+import base64
+def to_excel(df):
+    output = BytesIO()
+    writer = pd.ExcelWriter(output, engine='xlsxwriter')
+    df.to_excel(writer, sheet_name='Sheet1')
+    writer.save()
+    processed_data = output.getvalue()
+    return processed_data
+
+if st.button('Download Data as Excel'):
+    towrite = to_excel(df_filtered)
+    b64 = base64.b64encode(towrite).decode()
+    st.markdown(f'<a href="data:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;base64,{b64}" download="filtered_data.xlsx">Download Excel File</a>', unsafe_allow_html=True)

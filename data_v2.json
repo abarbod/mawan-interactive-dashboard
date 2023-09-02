@@ -2,7 +2,7 @@
   {
     "month": 1,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 61,
     "sum_invoices": 52426.50,
     "avg_invoices": 859.450820,
@@ -35,7 +35,7 @@
   {
     "month": 2,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 84,
     "sum_invoices": 95130.00,
     "avg_invoices": 1132.500000,
@@ -46,7 +46,7 @@
   {
     "month": 2,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 735.00,
     "avg_invoices": 367.500000,
@@ -57,7 +57,7 @@
   {
     "month": 3,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 116,
     "sum_invoices": 91428.75,
     "avg_invoices": 788.178879,
@@ -68,7 +68,7 @@
   {
     "month": 3,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1575.00,
     "avg_invoices": 1575.000000,
@@ -90,7 +90,7 @@
   {
     "month": 4,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 100,
     "sum_invoices": 110145.00,
     "avg_invoices": 1101.450000,
@@ -123,7 +123,7 @@
   {
     "month": 5,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 219,
     "sum_invoices": 185430.00,
     "avg_invoices": 846.712329,
@@ -134,7 +134,7 @@
   {
     "month": 5,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 4,
     "sum_invoices": 1155.00,
     "avg_invoices": 288.750000,
@@ -145,7 +145,7 @@
   {
     "month": 5,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 1102.50,
     "avg_invoices": 551.250000,
@@ -156,7 +156,7 @@
   {
     "month": 6,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 65,
     "sum_invoices": 55886.25,
     "avg_invoices": 859.788462,
@@ -167,7 +167,7 @@
   {
     "month": 7,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 82,
     "sum_invoices": 64953.00,
     "avg_invoices": 792.109756,
@@ -178,7 +178,7 @@
   {
     "month": 7,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1522.50,
     "avg_invoices": 1522.500000,
@@ -189,7 +189,7 @@
   {
     "month": 8,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 80,
     "sum_invoices": 58117.50,
     "avg_invoices": 726.468750,
@@ -200,7 +200,7 @@
   {
     "month": 8,
     "year": 2018,
-    "emp_name": "Editor",
+    "emp_name": "Aymen",
     "num_invoices": 1,
     "sum_invoices": 1102.50,
     "avg_invoices": 1102.500000,
@@ -211,7 +211,7 @@
   {
     "month": 8,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 2310.00,
     "avg_invoices": 770.000000,
@@ -233,7 +233,7 @@
   {
     "month": 8,
     "year": 2018,
-    "emp_name": "Editor",
+    "emp_name": "Aymen",
     "num_invoices": 1,
     "sum_invoices": 367.50,
     "avg_invoices": 367.500000,
@@ -244,7 +244,7 @@
   {
     "month": 9,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 91,
     "sum_invoices": 76451.55,
     "avg_invoices": 840.126923,
@@ -255,7 +255,7 @@
   {
     "month": 9,
     "year": 2018,
-    "emp_name": "Editor",
+    "emp_name": "Aymen",
     "num_invoices": 5,
     "sum_invoices": 2362.50,
     "avg_invoices": 472.500000,
@@ -266,7 +266,7 @@
   {
     "month": 9,
     "year": 2018,
-    "emp_name": "Editor",
+    "emp_name": "Aymen",
     "num_invoices": 1,
     "sum_invoices": 367.50,
     "avg_invoices": 367.500000,
@@ -277,7 +277,7 @@
   {
     "month": 9,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 210.00,
     "avg_invoices": 210.000000,
@@ -288,7 +288,7 @@
   {
     "month": 10,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 115,
     "sum_invoices": 129081.61,
     "avg_invoices": 1122.448783,
@@ -299,7 +299,7 @@
   {
     "month": 10,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 2310.00,
     "avg_invoices": 770.000000,
@@ -321,7 +321,7 @@
   {
     "month": 11,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 247,
     "sum_invoices": 353082.00,
     "avg_invoices": 1429.481781,
@@ -332,7 +332,7 @@
   {
     "month": 11,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 8,
     "sum_invoices": 7350.00,
     "avg_invoices": 918.750000,
@@ -354,7 +354,7 @@
   {
     "month": 11,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 605.00,
     "avg_invoices": 605.000000,
@@ -365,7 +365,7 @@
   {
     "month": 11,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 5,
     "sum_invoices": 20659.98,
     "avg_invoices": 4131.996000,
@@ -376,7 +376,7 @@
   {
     "month": 12,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 289,
     "sum_invoices": 390870.09,
     "avg_invoices": 1352.491661,
@@ -387,7 +387,7 @@
   {
     "month": 12,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 12,
     "sum_invoices": 21317.62,
     "avg_invoices": 1776.468333,
@@ -398,7 +398,7 @@
   {
     "month": 12,
     "year": 2018,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 4,
     "sum_invoices": 2045.00,
     "avg_invoices": 511.250000,
@@ -409,7 +409,7 @@
   {
     "month": 1,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 226,
     "sum_invoices": 241188.71,
     "avg_invoices": 1067.206681,
@@ -420,7 +420,7 @@
   {
     "month": 1,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 5,
     "sum_invoices": 14181.08,
     "avg_invoices": 2836.216000,
@@ -442,7 +442,7 @@
   {
     "month": 1,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 1085.01,
     "avg_invoices": 542.505000,
@@ -453,7 +453,7 @@
   {
     "month": 2,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 127,
     "sum_invoices": 107162.14,
     "avg_invoices": 843.796378,
@@ -464,7 +464,7 @@
   {
     "month": 2,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 575.00,
     "avg_invoices": 287.500000,
@@ -475,7 +475,7 @@
   {
     "month": 2,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 2848.00,
     "avg_invoices": 949.333333,
@@ -486,7 +486,7 @@
   {
     "month": 3,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 234,
     "sum_invoices": 219338.22,
     "avg_invoices": 937.342821,
@@ -497,7 +497,7 @@
   {
     "month": 3,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 5,
     "sum_invoices": 3485.00,
     "avg_invoices": 697.000000,
@@ -508,7 +508,7 @@
   {
     "month": 3,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1470.00,
     "avg_invoices": 1470.000000,
@@ -519,7 +519,7 @@
   {
     "month": 4,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 322,
     "sum_invoices": 308490.71,
     "avg_invoices": 958.045683,
@@ -530,7 +530,7 @@
   {
     "month": 4,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 7,
     "sum_invoices": 2704.98,
     "avg_invoices": 386.425714,
@@ -541,7 +541,7 @@
   {
     "month": 4,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 8,
     "sum_invoices": 5329.80,
     "avg_invoices": 666.225000,
@@ -563,7 +563,7 @@
   {
     "month": 5,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 458,
     "sum_invoices": 421128.54,
     "avg_invoices": 919.494629,
@@ -574,7 +574,7 @@
   {
     "month": 5,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 5,
     "sum_invoices": 8169.00,
     "avg_invoices": 1633.800000,
@@ -585,7 +585,7 @@
   {
     "month": 5,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 699.99,
     "avg_invoices": 699.990000,
@@ -596,7 +596,7 @@
   {
     "month": 6,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 124,
     "sum_invoices": 94049.06,
     "avg_invoices": 758.460161,
@@ -607,7 +607,7 @@
   {
     "month": 6,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 350.00,
     "avg_invoices": 350.000000,
@@ -618,7 +618,7 @@
   {
     "month": 6,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 749.70,
     "avg_invoices": 749.700000,
@@ -629,7 +629,7 @@
   {
     "month": 7,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 156,
     "sum_invoices": 127022.89,
     "avg_invoices": 814.249295,
@@ -640,7 +640,7 @@
   {
     "month": 7,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 3719.99,
     "avg_invoices": 1239.996667,
@@ -651,7 +651,7 @@
   {
     "month": 7,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 5,
     "sum_invoices": 2274.57,
     "avg_invoices": 454.914000,
@@ -662,7 +662,7 @@
   {
     "month": 8,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 97,
     "sum_invoices": 77658.25,
     "avg_invoices": 800.600515,
@@ -684,7 +684,7 @@
   {
     "month": 8,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 5,
     "sum_invoices": 3290.00,
     "avg_invoices": 658.000000,
@@ -695,7 +695,7 @@
   {
     "month": 8,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 4,
     "sum_invoices": 1699.98,
     "avg_invoices": 424.995000,
@@ -706,7 +706,7 @@
   {
     "month": 9,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 123,
     "sum_invoices": 96783.37,
     "avg_invoices": 786.856667,
@@ -717,7 +717,7 @@
   {
     "month": 9,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 3154.98,
     "avg_invoices": 1051.660000,
@@ -728,7 +728,7 @@
   {
     "month": 9,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 1749.99,
     "avg_invoices": 874.995000,
@@ -750,7 +750,7 @@
   {
     "month": 10,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 121,
     "sum_invoices": 109163.25,
     "avg_invoices": 902.175620,
@@ -761,7 +761,7 @@
   {
     "month": 10,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 5230.00,
     "avg_invoices": 2615.000000,
@@ -783,7 +783,7 @@
   {
     "month": 10,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 1030.00,
     "avg_invoices": 515.000000,
@@ -794,7 +794,7 @@
   {
     "month": 11,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 1204.00,
     "avg_invoices": 602.000000,
@@ -805,7 +805,7 @@
   {
     "month": 11,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 29,
     "sum_invoices": 37841.86,
     "avg_invoices": 1304.891724,
@@ -816,7 +816,7 @@
   {
     "month": 11,
     "year": 2019,
-    "emp_name": "User",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 210.00,
     "avg_invoices": 210.000000,
@@ -827,7 +827,7 @@
   {
     "month": 11,
     "year": 2019,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 286,
     "sum_invoices": 363269.65,
     "avg_invoices": 1270.173601,
@@ -838,7 +838,7 @@
   {
     "month": 11,
     "year": 2019,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 2029.50,
     "avg_invoices": 676.500000,
@@ -849,7 +849,7 @@
   {
     "month": 11,
     "year": 2019,
-    "emp_name": "أيمن حسنين",
+    "emp_name": "Aymen",
     "num_invoices": 2,
     "sum_invoices": 1100.02,
     "avg_invoices": 550.010000,
@@ -882,7 +882,7 @@
   {
     "month": 11,
     "year": 2019,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 2450.01,
     "avg_invoices": 1225.005000,
@@ -893,7 +893,7 @@
   {
     "month": 12,
     "year": 2019,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 293,
     "sum_invoices": 303065.23,
     "avg_invoices": 1034.352321,
@@ -904,7 +904,7 @@
   {
     "month": 12,
     "year": 2019,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 6,
     "sum_invoices": 8848.33,
     "avg_invoices": 1474.721667,
@@ -915,7 +915,7 @@
   {
     "month": 12,
     "year": 2019,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 5,
     "sum_invoices": 1750.00,
     "avg_invoices": 350.000000,
@@ -937,7 +937,7 @@
   {
     "month": 1,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 134,
     "sum_invoices": 131778.71,
     "avg_invoices": 983.423209,
@@ -948,7 +948,7 @@
   {
     "month": 1,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 4,
     "sum_invoices": 2500.74,
     "avg_invoices": 625.185000,
@@ -959,7 +959,7 @@
   {
     "month": 1,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 31,
     "sum_invoices": 42544.68,
     "avg_invoices": 1372.409032,
@@ -970,7 +970,7 @@
   {
     "month": 1,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 6,
     "sum_invoices": 3960.02,
     "avg_invoices": 660.003333,
@@ -992,7 +992,7 @@
   {
     "month": 1,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 1320.00,
     "avg_invoices": 660.000000,
@@ -1003,7 +1003,7 @@
   {
     "month": 2,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 196,
     "sum_invoices": 162898.14,
     "avg_invoices": 831.112959,
@@ -1014,7 +1014,7 @@
   {
     "month": 2,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 4801.61,
     "avg_invoices": 4801.610000,
@@ -1025,7 +1025,7 @@
   {
     "month": 2,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 400.00,
     "avg_invoices": 400.000000,
@@ -1047,7 +1047,7 @@
   {
     "month": 2,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1919.99,
     "avg_invoices": 1919.990000,
@@ -1058,7 +1058,7 @@
   {
     "month": 3,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 192,
     "sum_invoices": 177297.69,
     "avg_invoices": 923.425469,
@@ -1069,7 +1069,7 @@
   {
     "month": 3,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 3899.99,
     "avg_invoices": 1299.996667,
@@ -1080,7 +1080,7 @@
   {
     "month": 3,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 1574.99,
     "avg_invoices": 787.495000,
@@ -1091,7 +1091,7 @@
   {
     "month": 3,
     "year": 2020,
-    "emp_name": "أيمن حسنين",
+    "emp_name": "Aymen",
     "num_invoices": 19,
     "sum_invoices": 15465.42,
     "avg_invoices": 813.969474,
@@ -1102,7 +1102,7 @@
   {
     "month": 3,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1050.00,
     "avg_invoices": 1050.000000,
@@ -1113,7 +1113,7 @@
   {
     "month": 3,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 2520.00,
     "avg_invoices": 1260.000000,
@@ -1124,7 +1124,7 @@
   {
     "month": 3,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1102.50,
     "avg_invoices": 1102.500000,
@@ -1135,7 +1135,7 @@
   {
     "month": 4,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 38,
     "sum_invoices": 41482.75,
     "avg_invoices": 1091.651316,
@@ -1146,7 +1146,7 @@
   {
     "month": 4,
     "year": 2020,
-    "emp_name": "أيمن حسنين",
+    "emp_name": "Aymen",
     "num_invoices": 8,
     "sum_invoices": 6024.98,
     "avg_invoices": 753.122500,
@@ -1157,7 +1157,7 @@
   {
     "month": 4,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 499.80,
     "avg_invoices": 499.800000,
@@ -1168,7 +1168,7 @@
   {
     "month": 5,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 99,
     "sum_invoices": 115049.65,
     "avg_invoices": 1162.117677,
@@ -1179,7 +1179,7 @@
   {
     "month": 5,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 8,
     "sum_invoices": 10275.97,
     "avg_invoices": 1284.496250,
@@ -1190,7 +1190,7 @@
   {
     "month": 5,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 8,
     "sum_invoices": 21270.00,
     "avg_invoices": 2658.750000,
@@ -1201,7 +1201,7 @@
   {
     "month": 5,
     "year": 2020,
-    "emp_name": "أيمن حسنين",
+    "emp_name": "Aymen",
     "num_invoices": 1,
     "sum_invoices": 1049.99,
     "avg_invoices": 1049.990000,
@@ -1212,7 +1212,7 @@
   {
     "month": 6,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 125,
     "sum_invoices": 115689.62,
     "avg_invoices": 925.516960,
@@ -1234,7 +1234,7 @@
   {
     "month": 6,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 3374.68,
     "avg_invoices": 1124.893333,
@@ -1245,7 +1245,7 @@
   {
     "month": 6,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 1400.00,
     "avg_invoices": 700.000000,
@@ -1256,7 +1256,7 @@
   {
     "month": 7,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 1155.00,
     "avg_invoices": 385.000000,
@@ -1267,7 +1267,7 @@
   {
     "month": 7,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 34,
     "sum_invoices": 28330.00,
     "avg_invoices": 833.235294,
@@ -1278,7 +1278,7 @@
   {
     "month": 7,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 12,
     "sum_invoices": 15304.50,
     "avg_invoices": 1275.375000,
@@ -1289,7 +1289,7 @@
   {
     "month": 7,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1380.00,
     "avg_invoices": 1380.000000,
@@ -1905,7 +1905,7 @@
   {
     "month": 10,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 6908.93,
     "avg_invoices": 2302.976667,
@@ -1916,7 +1916,7 @@
   {
     "month": 10,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 4,
     "sum_invoices": 5310.00,
     "avg_invoices": 1327.500000,
@@ -1971,7 +1971,7 @@
   {
     "month": 11,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 59,
     "sum_invoices": 55271.26,
     "avg_invoices": 936.801017,
@@ -1982,7 +1982,7 @@
   {
     "month": 11,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 64,
     "sum_invoices": 61190.00,
     "avg_invoices": 956.093750,
@@ -1993,7 +1993,7 @@
   {
     "month": 11,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 4,
     "sum_invoices": 2005.00,
     "avg_invoices": 501.250000,
@@ -2004,7 +2004,7 @@
   {
     "month": 11,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 6,
     "sum_invoices": 7220.00,
     "avg_invoices": 1203.333333,
@@ -2015,7 +2015,7 @@
   {
     "month": 11,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 282.90,
     "avg_invoices": 282.900000,
@@ -2037,7 +2037,7 @@
   {
     "month": 11,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 5,
     "sum_invoices": 4800.00,
     "avg_invoices": 960.000000,
@@ -2048,7 +2048,7 @@
   {
     "month": 11,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 5,
     "sum_invoices": 2607.00,
     "avg_invoices": 521.400000,
@@ -2070,7 +2070,7 @@
   {
     "month": 11,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 1700.00,
     "avg_invoices": 850.000000,
@@ -2092,7 +2092,7 @@
   {
     "month": 11,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 2220.00,
     "avg_invoices": 2220.000000,
@@ -2103,7 +2103,7 @@
   {
     "month": 11,
     "year": 2020,
-    "emp_name": "أيمن حسنين",
+    "emp_name": "Aymen",
     "num_invoices": 16,
     "sum_invoices": 14540.00,
     "avg_invoices": 908.750000,
@@ -2114,7 +2114,7 @@
   {
     "month": 11,
     "year": 2020,
-    "emp_name": "أيمن حسنين",
+    "emp_name": "Aymen",
     "num_invoices": 2,
     "sum_invoices": 2400.00,
     "avg_invoices": 1200.000000,
@@ -2125,7 +2125,7 @@
   {
     "month": 11,
     "year": 2020,
-    "emp_name": "أيمن حسنين",
+    "emp_name": "Aymen",
     "num_invoices": 1,
     "sum_invoices": 600.00,
     "avg_invoices": 600.000000,
@@ -2136,7 +2136,7 @@
   {
     "month": 11,
     "year": 2020,
-    "emp_name": "أيمن حسنين",
+    "emp_name": "Aymen",
     "num_invoices": 2,
     "sum_invoices": 800.00,
     "avg_invoices": 400.000000,
@@ -2158,7 +2158,7 @@
   {
     "month": 11,
     "year": 2020,
-    "emp_name": "أيمن حسنين",
+    "emp_name": "Aymen",
     "num_invoices": 15,
     "sum_invoices": 14265.00,
     "avg_invoices": 951.000000,
@@ -2169,7 +2169,7 @@
   {
     "month": 11,
     "year": 2020,
-    "emp_name": "أيمن حسنين",
+    "emp_name": "Aymen",
     "num_invoices": 1,
     "sum_invoices": 650.00,
     "avg_invoices": 650.000000,
@@ -2180,7 +2180,7 @@
   {
     "month": 11,
     "year": 2020,
-    "emp_name": "أيمن حسنين",
+    "emp_name": "Aymen",
     "num_invoices": 1,
     "sum_invoices": 720.00,
     "avg_invoices": 720.000000,
@@ -2191,7 +2191,7 @@
   {
     "month": 11,
     "year": 2020,
-    "emp_name": "أيمن حسنين",
+    "emp_name": "Aymen",
     "num_invoices": 1,
     "sum_invoices": 720.00,
     "avg_invoices": 720.000000,
@@ -2202,7 +2202,7 @@
   {
     "month": 11,
     "year": 2020,
-    "emp_name": "أيمن حسنين",
+    "emp_name": "Aymen",
     "num_invoices": 1,
     "sum_invoices": 895.00,
     "avg_invoices": 895.000000,
@@ -2235,7 +2235,7 @@
   {
     "month": 12,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 66,
     "sum_invoices": 53577.50,
     "avg_invoices": 811.780303,
@@ -2246,7 +2246,7 @@
   {
     "month": 12,
     "year": 2020,
-    "emp_name": "أيمن حسنين",
+    "emp_name": "Aymen",
     "num_invoices": 2,
     "sum_invoices": 1670.00,
     "avg_invoices": 835.000000,
@@ -2268,7 +2268,7 @@
   {
     "month": 12,
     "year": 2020,
-    "emp_name": "أيمن حسنين",
+    "emp_name": "Aymen",
     "num_invoices": 1,
     "sum_invoices": 510.00,
     "avg_invoices": 510.000000,
@@ -2279,7 +2279,7 @@
   {
     "month": 12,
     "year": 2020,
-    "emp_name": "أيمن حسنين",
+    "emp_name": "Aymen",
     "num_invoices": 2,
     "sum_invoices": 855.00,
     "avg_invoices": 427.500000,
@@ -2290,7 +2290,7 @@
   {
     "month": 12,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 4,
     "sum_invoices": 1140.00,
     "avg_invoices": 285.000000,
@@ -2301,7 +2301,7 @@
   {
     "month": 12,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 74,
     "sum_invoices": 56315.25,
     "avg_invoices": 761.016892,
@@ -2312,7 +2312,7 @@
   {
     "month": 12,
     "year": 2020,
-    "emp_name": "أيمن حسنين",
+    "emp_name": "Aymen",
     "num_invoices": 2,
     "sum_invoices": 2300.00,
     "avg_invoices": 1150.000000,
@@ -2345,7 +2345,7 @@
   {
     "month": 12,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 11,
     "sum_invoices": 16250.00,
     "avg_invoices": 1477.272727,
@@ -2356,7 +2356,7 @@
   {
     "month": 12,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 17,
     "sum_invoices": 14076.00,
     "avg_invoices": 828.000000,
@@ -2367,7 +2367,7 @@
   {
     "month": 12,
     "year": 2020,
-    "emp_name": "أيمن حسنين",
+    "emp_name": "Aymen",
     "num_invoices": 1,
     "sum_invoices": 260.00,
     "avg_invoices": 260.000000,
@@ -2378,7 +2378,7 @@
   {
     "month": 12,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 375.00,
     "avg_invoices": 187.500000,
@@ -2389,7 +2389,7 @@
   {
     "month": 12,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 4,
     "sum_invoices": 1080.02,
     "avg_invoices": 270.005000,
@@ -2411,7 +2411,7 @@
   {
     "month": 12,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 460.00,
     "avg_invoices": 460.000000,
@@ -2444,7 +2444,7 @@
   {
     "month": 12,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1650.00,
     "avg_invoices": 1650.000000,
@@ -2455,7 +2455,7 @@
   {
     "month": 12,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 620.00,
     "avg_invoices": 620.000000,
@@ -2477,7 +2477,7 @@
   {
     "month": 12,
     "year": 2020,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 7,
     "sum_invoices": 4191.25,
     "avg_invoices": 598.750000,
@@ -2543,7 +2543,7 @@
   {
     "month": 1,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 35,
     "sum_invoices": 27595.50,
     "avg_invoices": 788.442857,
@@ -2554,7 +2554,7 @@
   {
     "month": 1,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 50,
     "sum_invoices": 36116.00,
     "avg_invoices": 722.320000,
@@ -2576,7 +2576,7 @@
   {
     "month": 1,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 1635.00,
     "avg_invoices": 545.000000,
@@ -2587,7 +2587,7 @@
   {
     "month": 1,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 1200.00,
     "avg_invoices": 400.000000,
@@ -2609,7 +2609,7 @@
   {
     "month": 1,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 7,
     "sum_invoices": 3480.00,
     "avg_invoices": 497.142857,
@@ -2620,7 +2620,7 @@
   {
     "month": 1,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 4,
     "sum_invoices": 6990.00,
     "avg_invoices": 1747.500000,
@@ -2642,7 +2642,7 @@
   {
     "month": 1,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 505.00,
     "avg_invoices": 505.000000,
@@ -2653,7 +2653,7 @@
   {
     "month": 1,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 5650.00,
     "avg_invoices": 2825.000000,
@@ -2675,7 +2675,7 @@
   {
     "month": 2,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 58,
     "sum_invoices": 63484.50,
     "avg_invoices": 1094.560345,
@@ -2708,7 +2708,7 @@
   {
     "month": 2,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 2205.00,
     "avg_invoices": 735.000000,
@@ -2730,7 +2730,7 @@
   {
     "month": 2,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 31,
     "sum_invoices": 26945.00,
     "avg_invoices": 869.193548,
@@ -2752,7 +2752,7 @@
   {
     "month": 2,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 2510.00,
     "avg_invoices": 1255.000000,
@@ -2774,7 +2774,7 @@
   {
     "month": 2,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 55.00,
     "avg_invoices": 55.000000,
@@ -2829,7 +2829,7 @@
   {
     "month": 3,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 82,
     "sum_invoices": 76963.75,
     "avg_invoices": 938.582317,
@@ -2840,7 +2840,7 @@
   {
     "month": 3,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 5,
     "sum_invoices": 3905.00,
     "avg_invoices": 781.000000,
@@ -2851,7 +2851,7 @@
   {
     "month": 3,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 75,
     "sum_invoices": 62872.50,
     "avg_invoices": 838.300000,
@@ -2862,7 +2862,7 @@
   {
     "month": 3,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1000.00,
     "avg_invoices": 1000.000000,
@@ -2873,7 +2873,7 @@
   {
     "month": 3,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 4,
     "sum_invoices": 5360.00,
     "avg_invoices": 1340.000000,
@@ -2884,7 +2884,7 @@
   {
     "month": 3,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 3500.00,
     "avg_invoices": 1750.000000,
@@ -2895,7 +2895,7 @@
   {
     "month": 3,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 6,
     "sum_invoices": 8260.00,
     "avg_invoices": 1376.666667,
@@ -2906,7 +2906,7 @@
   {
     "month": 3,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 5,
     "sum_invoices": 4600.00,
     "avg_invoices": 920.000000,
@@ -2928,7 +2928,7 @@
   {
     "month": 4,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 116,
     "sum_invoices": 113503.48,
     "avg_invoices": 978.478276,
@@ -2939,7 +2939,7 @@
   {
     "month": 4,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 59,
     "sum_invoices": 51835.00,
     "avg_invoices": 878.559322,
@@ -2972,7 +2972,7 @@
   {
     "month": 4,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 4,
     "sum_invoices": 885.00,
     "avg_invoices": 221.250000,
@@ -2983,7 +2983,7 @@
   {
     "month": 4,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 5,
     "sum_invoices": 5000.00,
     "avg_invoices": 1000.000000,
@@ -2994,7 +2994,7 @@
   {
     "month": 4,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 6,
     "sum_invoices": 4200.00,
     "avg_invoices": 700.000000,
@@ -3071,7 +3071,7 @@
   {
     "month": 4,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 1380.00,
     "avg_invoices": 690.000000,
@@ -3104,7 +3104,7 @@
   {
     "month": 4,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 440.00,
     "avg_invoices": 440.000000,
@@ -3115,7 +3115,7 @@
   {
     "month": 5,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 550.00,
     "avg_invoices": 550.000000,
@@ -3137,7 +3137,7 @@
   {
     "month": 5,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 485.00,
     "avg_invoices": 485.000000,
@@ -3170,7 +3170,7 @@
   {
     "month": 5,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 9,
     "sum_invoices": 5075.00,
     "avg_invoices": 563.888889,
@@ -3192,7 +3192,7 @@
   {
     "month": 5,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 3080.00,
     "avg_invoices": 3080.000000,
@@ -3203,7 +3203,7 @@
   {
     "month": 5,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 288.75,
     "avg_invoices": 96.250000,
@@ -4028,7 +4028,7 @@
   {
     "month": 10,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 21,
     "sum_invoices": 18227.00,
     "avg_invoices": 867.952381,
@@ -4039,7 +4039,7 @@
   {
     "month": 10,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 1730.00,
     "avg_invoices": 865.000000,
@@ -4061,7 +4061,7 @@
   {
     "month": 11,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 71,
     "sum_invoices": 52886.00,
     "avg_invoices": 744.873239,
@@ -4072,7 +4072,7 @@
   {
     "month": 11,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 4,
     "sum_invoices": 1375.00,
     "avg_invoices": 343.750000,
@@ -4094,7 +4094,7 @@
   {
     "month": 11,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 27,
     "sum_invoices": 22420.02,
     "avg_invoices": 830.371111,
@@ -4149,7 +4149,7 @@
   {
     "month": 11,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 47,
     "sum_invoices": 60751.00,
     "avg_invoices": 1292.574468,
@@ -4160,7 +4160,7 @@
   {
     "month": 11,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 3800.00,
     "avg_invoices": 3800.000000,
@@ -4171,7 +4171,7 @@
   {
     "month": 11,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 9,
     "sum_invoices": 10370.00,
     "avg_invoices": 1152.222222,
@@ -4193,7 +4193,7 @@
   {
     "month": 11,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 1940.00,
     "avg_invoices": 646.666667,
@@ -4215,7 +4215,7 @@
   {
     "month": 12,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 88,
     "sum_invoices": 64836.00,
     "avg_invoices": 736.772727,
@@ -4248,7 +4248,7 @@
   {
     "month": 12,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 27,
     "sum_invoices": 32439.00,
     "avg_invoices": 1201.444444,
@@ -4270,7 +4270,7 @@
   {
     "month": 12,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 7,
     "sum_invoices": 9030.00,
     "avg_invoices": 1290.000000,
@@ -4281,7 +4281,7 @@
   {
     "month": 12,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 520.00,
     "avg_invoices": 260.000000,
@@ -4303,7 +4303,7 @@
   {
     "month": 12,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 14,
     "sum_invoices": 13980.00,
     "avg_invoices": 998.571429,
@@ -4314,7 +4314,7 @@
   {
     "month": 12,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 19,
     "sum_invoices": 9740.00,
     "avg_invoices": 512.631579,
@@ -4325,7 +4325,7 @@
   {
     "month": 12,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 12,
     "sum_invoices": 12205.00,
     "avg_invoices": 1017.083333,
@@ -4336,7 +4336,7 @@
   {
     "month": 12,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 54,
     "sum_invoices": 56199.00,
     "avg_invoices": 1040.722222,
@@ -4369,7 +4369,7 @@
   {
     "month": 12,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 280.00,
     "avg_invoices": 280.000000,
@@ -4391,7 +4391,7 @@
   {
     "month": 12,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1820.00,
     "avg_invoices": 1820.000000,
@@ -4402,7 +4402,7 @@
   {
     "month": 12,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1500.00,
     "avg_invoices": 1500.000000,
@@ -4413,7 +4413,7 @@
   {
     "month": 12,
     "year": 2021,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1347.50,
     "avg_invoices": 1347.500000,
@@ -4457,7 +4457,7 @@
   {
     "month": 1,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 32,
     "sum_invoices": 39507.00,
     "avg_invoices": 1234.593750,
@@ -4490,7 +4490,7 @@
   {
     "month": 1,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 4,
     "sum_invoices": 3434.00,
     "avg_invoices": 858.500000,
@@ -4501,7 +4501,7 @@
   {
     "month": 1,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 36,
     "sum_invoices": 35005.50,
     "avg_invoices": 972.375000,
@@ -4512,7 +4512,7 @@
   {
     "month": 1,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 6,
     "sum_invoices": 6305.00,
     "avg_invoices": 1050.833333,
@@ -4523,7 +4523,7 @@
   {
     "month": 1,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 9,
     "sum_invoices": 8260.00,
     "avg_invoices": 917.777778,
@@ -4534,7 +4534,7 @@
   {
     "month": 1,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 13,
     "sum_invoices": 9340.00,
     "avg_invoices": 718.461538,
@@ -4545,7 +4545,7 @@
   {
     "month": 1,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 10,
     "sum_invoices": 9685.00,
     "avg_invoices": 968.500000,
@@ -4633,7 +4633,7 @@
   {
     "month": 1,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 360.00,
     "avg_invoices": 360.000000,
@@ -4644,7 +4644,7 @@
   {
     "month": 1,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 1020.00,
     "avg_invoices": 340.000000,
@@ -4655,7 +4655,7 @@
   {
     "month": 1,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 600.00,
     "avg_invoices": 600.000000,
@@ -4666,7 +4666,7 @@
   {
     "month": 1,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1500.00,
     "avg_invoices": 1500.000000,
@@ -4677,7 +4677,7 @@
   {
     "month": 1,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 300.00,
     "avg_invoices": 300.000000,
@@ -4699,7 +4699,7 @@
   {
     "month": 2,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 34,
     "sum_invoices": 31007.01,
     "avg_invoices": 911.970882,
@@ -4710,7 +4710,7 @@
   {
     "month": 2,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 27,
     "sum_invoices": 23254.50,
     "avg_invoices": 861.277778,
@@ -4743,7 +4743,7 @@
   {
     "month": 2,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 11,
     "sum_invoices": 8220.00,
     "avg_invoices": 747.272727,
@@ -4754,7 +4754,7 @@
   {
     "month": 2,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 27,
     "sum_invoices": 27030.01,
     "avg_invoices": 1001.111481,
@@ -4765,7 +4765,7 @@
   {
     "month": 2,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 16,
     "sum_invoices": 9240.00,
     "avg_invoices": 577.500000,
@@ -4776,7 +4776,7 @@
   {
     "month": 2,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 8,
     "sum_invoices": 6600.00,
     "avg_invoices": 825.000000,
@@ -4787,7 +4787,7 @@
   {
     "month": 2,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 11,
     "sum_invoices": 12440.00,
     "avg_invoices": 1130.909091,
@@ -4798,7 +4798,7 @@
   {
     "month": 2,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 18,
     "sum_invoices": 12670.00,
     "avg_invoices": 703.888889,
@@ -4853,7 +4853,7 @@
   {
     "month": 2,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 460.00,
     "avg_invoices": 460.000000,
@@ -4864,7 +4864,7 @@
   {
     "month": 2,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 6,
     "sum_invoices": 1632.50,
     "avg_invoices": 272.083333,
@@ -4908,7 +4908,7 @@
   {
     "month": 2,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1160.01,
     "avg_invoices": 1160.010000,
@@ -4919,7 +4919,7 @@
   {
     "month": 2,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 400.00,
     "avg_invoices": 400.000000,
@@ -4941,7 +4941,7 @@
   {
     "month": 3,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 69,
     "sum_invoices": 66160.54,
     "avg_invoices": 958.848406,
@@ -4963,7 +4963,7 @@
   {
     "month": 3,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 75,
     "sum_invoices": 65797.99,
     "avg_invoices": 877.306533,
@@ -4985,7 +4985,7 @@
   {
     "month": 3,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 62,
     "sum_invoices": 64110.00,
     "avg_invoices": 1034.032258,
@@ -5007,7 +5007,7 @@
   {
     "month": 3,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 71,
     "sum_invoices": 62629.00,
     "avg_invoices": 882.098592,
@@ -5018,7 +5018,7 @@
   {
     "month": 3,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 6,
     "sum_invoices": 2615.00,
     "avg_invoices": 435.833333,
@@ -5051,7 +5051,7 @@
   {
     "month": 3,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 900.00,
     "avg_invoices": 900.000000,
@@ -5062,7 +5062,7 @@
   {
     "month": 3,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 14,
     "sum_invoices": 10430.00,
     "avg_invoices": 745.000000,
@@ -5073,7 +5073,7 @@
   {
     "month": 3,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 12,
     "sum_invoices": 11300.00,
     "avg_invoices": 941.666667,
@@ -5084,7 +5084,7 @@
   {
     "month": 3,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 10,
     "sum_invoices": 8040.00,
     "avg_invoices": 804.000000,
@@ -5095,7 +5095,7 @@
   {
     "month": 3,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 18,
     "sum_invoices": 18525.00,
     "avg_invoices": 1029.166667,
@@ -5128,7 +5128,7 @@
   {
     "month": 3,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 6600.00,
     "avg_invoices": 3300.000000,
@@ -5139,7 +5139,7 @@
   {
     "month": 3,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 600.00,
     "avg_invoices": 600.000000,
@@ -5194,7 +5194,7 @@
   {
     "month": 3,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 2010.00,
     "avg_invoices": 2010.000000,
@@ -5227,7 +5227,7 @@
   {
     "month": 4,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 59,
     "sum_invoices": 55054.53,
     "avg_invoices": 933.127627,
@@ -5238,7 +5238,7 @@
   {
     "month": 4,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 59,
     "sum_invoices": 59170.50,
     "avg_invoices": 1002.889831,
@@ -5271,7 +5271,7 @@
   {
     "month": 4,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 75,
     "sum_invoices": 53099.05,
     "avg_invoices": 707.987333,
@@ -5293,7 +5293,7 @@
   {
     "month": 4,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 49,
     "sum_invoices": 40574.51,
     "avg_invoices": 828.051224,
@@ -5326,7 +5326,7 @@
   {
     "month": 4,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 12,
     "sum_invoices": 8280.00,
     "avg_invoices": 690.000000,
@@ -5337,7 +5337,7 @@
   {
     "month": 4,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 16,
     "sum_invoices": 16502.00,
     "avg_invoices": 1031.375000,
@@ -5359,7 +5359,7 @@
   {
     "month": 4,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 28,
     "sum_invoices": 26016.75,
     "avg_invoices": 929.169643,
@@ -5370,7 +5370,7 @@
   {
     "month": 4,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 25,
     "sum_invoices": 15825.00,
     "avg_invoices": 633.000000,
@@ -5381,7 +5381,7 @@
   {
     "month": 4,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 2664.00,
     "avg_invoices": 888.000000,
@@ -5403,7 +5403,7 @@
   {
     "month": 4,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 14,
     "sum_invoices": 3105.01,
     "avg_invoices": 221.786429,
@@ -5469,7 +5469,7 @@
   {
     "month": 4,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 414.00,
     "avg_invoices": 414.000000,
@@ -5480,7 +5480,7 @@
   {
     "month": 4,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 460.00,
     "avg_invoices": 460.000000,
@@ -5491,7 +5491,7 @@
   {
     "month": 4,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 485.00,
     "avg_invoices": 485.000000,
@@ -5502,7 +5502,7 @@
   {
     "month": 4,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1000.00,
     "avg_invoices": 1000.000000,
@@ -5513,7 +5513,7 @@
   {
     "month": 4,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 1380.00,
     "avg_invoices": 690.000000,
@@ -5535,7 +5535,7 @@
   {
     "month": 5,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 5,
     "sum_invoices": 1065.00,
     "avg_invoices": 213.000000,
@@ -5546,7 +5546,7 @@
   {
     "month": 5,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 36,
     "sum_invoices": 29137.49,
     "avg_invoices": 809.374722,
@@ -5557,7 +5557,7 @@
   {
     "month": 5,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 37,
     "sum_invoices": 37784.96,
     "avg_invoices": 1021.215135,
@@ -5579,7 +5579,7 @@
   {
     "month": 5,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 9,
     "sum_invoices": 6650.00,
     "avg_invoices": 738.888889,
@@ -5590,7 +5590,7 @@
   {
     "month": 5,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 31,
     "sum_invoices": 21795.00,
     "avg_invoices": 703.064516,
@@ -5645,7 +5645,7 @@
   {
     "month": 5,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 7,
     "sum_invoices": 6230.00,
     "avg_invoices": 890.000000,
@@ -5656,7 +5656,7 @@
   {
     "month": 5,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 4,
     "sum_invoices": 2785.50,
     "avg_invoices": 696.375000,
@@ -5667,7 +5667,7 @@
   {
     "month": 5,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 7,
     "sum_invoices": 7172.75,
     "avg_invoices": 1024.678571,
@@ -5678,7 +5678,7 @@
   {
     "month": 5,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 4,
     "sum_invoices": 3075.00,
     "avg_invoices": 768.750000,
@@ -5722,7 +5722,7 @@
   {
     "month": 6,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 9,
     "sum_invoices": 12910.00,
     "avg_invoices": 1434.444444,
@@ -5766,7 +5766,7 @@
   {
     "month": 6,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 200.01,
     "avg_invoices": 200.010000,
@@ -5777,7 +5777,7 @@
   {
     "month": 6,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 27,
     "sum_invoices": 23851.47,
     "avg_invoices": 883.387778,
@@ -5843,7 +5843,7 @@
   {
     "month": 6,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 30,
     "sum_invoices": 19365.50,
     "avg_invoices": 645.516667,
@@ -5854,7 +5854,7 @@
   {
     "month": 6,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 37,
     "sum_invoices": 24007.97,
     "avg_invoices": 648.864054,
@@ -5865,7 +5865,7 @@
   {
     "month": 6,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 6,
     "sum_invoices": 5210.00,
     "avg_invoices": 868.333333,
@@ -5876,7 +5876,7 @@
   {
     "month": 6,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 11,
     "sum_invoices": 11545.00,
     "avg_invoices": 1049.545455,
@@ -5887,7 +5887,7 @@
   {
     "month": 6,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 690.00,
     "avg_invoices": 690.000000,
@@ -5909,7 +5909,7 @@
   {
     "month": 6,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 250.00,
     "avg_invoices": 125.000000,
@@ -5920,7 +5920,7 @@
   {
     "month": 6,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 200.00,
     "avg_invoices": 200.000000,
@@ -5942,7 +5942,7 @@
   {
     "month": 6,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 200.00,
     "avg_invoices": 200.000000,
@@ -5964,7 +5964,7 @@
   {
     "month": 7,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 67,
     "sum_invoices": 54715.00,
     "avg_invoices": 816.641791,
@@ -5975,7 +5975,7 @@
   {
     "month": 7,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 71,
     "sum_invoices": 58726.94,
     "avg_invoices": 827.140000,
@@ -6008,7 +6008,7 @@
   {
     "month": 7,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 6,
     "sum_invoices": 3310.00,
     "avg_invoices": 551.666667,
@@ -6030,7 +6030,7 @@
   {
     "month": 7,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 4,
     "sum_invoices": 1400.00,
     "avg_invoices": 350.000000,
@@ -6041,7 +6041,7 @@
   {
     "month": 7,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 920.00,
     "avg_invoices": 460.000000,
@@ -6063,7 +6063,7 @@
   {
     "month": 8,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 2100.00,
     "avg_invoices": 2100.000000,
@@ -6074,7 +6074,7 @@
   {
     "month": 8,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 117,
     "sum_invoices": 107834.44,
     "avg_invoices": 921.661880,
@@ -6085,7 +6085,7 @@
   {
     "month": 8,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 79,
     "sum_invoices": 66262.51,
     "avg_invoices": 838.765949,
@@ -6096,7 +6096,7 @@
   {
     "month": 8,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 879.98,
     "avg_invoices": 879.980000,
@@ -6107,7 +6107,7 @@
   {
     "month": 8,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 800.01,
     "avg_invoices": 400.005000,
@@ -6140,7 +6140,7 @@
   {
     "month": 8,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 400.00,
     "avg_invoices": 200.000000,
@@ -6151,7 +6151,7 @@
   {
     "month": 8,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 2309.98,
     "avg_invoices": 1154.990000,
@@ -6162,7 +6162,7 @@
   {
     "month": 9,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 66,
     "sum_invoices": 53307.91,
     "avg_invoices": 807.695606,
@@ -6173,7 +6173,7 @@
   {
     "month": 9,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 60,
     "sum_invoices": 62109.92,
     "avg_invoices": 1035.165333,
@@ -6206,7 +6206,7 @@
   {
     "month": 9,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 11,
     "sum_invoices": 2630.00,
     "avg_invoices": 239.090909,
@@ -6250,7 +6250,7 @@
   {
     "month": 9,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 9,
     "sum_invoices": 5515.00,
     "avg_invoices": 612.777778,
@@ -6316,7 +6316,7 @@
   {
     "month": 10,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 43,
     "sum_invoices": 56087.00,
     "avg_invoices": 1304.348837,
@@ -6327,7 +6327,7 @@
   {
     "month": 10,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 50,
     "sum_invoices": 44989.00,
     "avg_invoices": 899.780000,
@@ -6360,7 +6360,7 @@
   {
     "month": 10,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 56,
     "sum_invoices": 53626.50,
     "avg_invoices": 957.616071,
@@ -6382,7 +6382,7 @@
   {
     "month": 10,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 860.00,
     "avg_invoices": 286.666667,
@@ -6404,7 +6404,7 @@
   {
     "month": 10,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 770.00,
     "avg_invoices": 385.000000,
@@ -6415,7 +6415,7 @@
   {
     "month": 10,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 5,
     "sum_invoices": 7430.00,
     "avg_invoices": 1486.000000,
@@ -6426,7 +6426,7 @@
   {
     "month": 10,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 220.00,
     "avg_invoices": 220.000000,
@@ -6437,7 +6437,7 @@
   {
     "month": 10,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 4,
     "sum_invoices": 6670.00,
     "avg_invoices": 1667.500000,
@@ -6448,7 +6448,7 @@
   {
     "month": 10,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 2760.00,
     "avg_invoices": 1380.000000,
@@ -6459,7 +6459,7 @@
   {
     "month": 10,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 6,
     "sum_invoices": 8510.00,
     "avg_invoices": 1418.333333,
@@ -6470,7 +6470,7 @@
   {
     "month": 10,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 460.00,
     "avg_invoices": 460.000000,
@@ -6492,7 +6492,7 @@
   {
     "month": 10,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 4,
     "sum_invoices": 3525.00,
     "avg_invoices": 881.250000,
@@ -6503,7 +6503,7 @@
   {
     "month": 10,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 400.00,
     "avg_invoices": 400.000000,
@@ -6514,7 +6514,7 @@
   {
     "month": 10,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 460.00,
     "avg_invoices": 460.000000,
@@ -6525,7 +6525,7 @@
   {
     "month": 10,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1400.00,
     "avg_invoices": 1400.000000,
@@ -6558,7 +6558,7 @@
   {
     "month": 11,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 58,
     "sum_invoices": 60148.00,
     "avg_invoices": 1037.034483,
@@ -6569,7 +6569,7 @@
   {
     "month": 11,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 62,
     "sum_invoices": 56121.00,
     "avg_invoices": 905.177419,
@@ -6602,7 +6602,7 @@
   {
     "month": 11,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 440.00,
     "avg_invoices": 440.000000,
@@ -6613,7 +6613,7 @@
   {
     "month": 11,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 11,
     "sum_invoices": 13570.00,
     "avg_invoices": 1233.636364,
@@ -6624,7 +6624,7 @@
   {
     "month": 11,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 8,
     "sum_invoices": 9170.00,
     "avg_invoices": 1146.250000,
@@ -6635,7 +6635,7 @@
   {
     "month": 11,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 13,
     "sum_invoices": 12190.00,
     "avg_invoices": 937.692308,
@@ -6646,7 +6646,7 @@
   {
     "month": 11,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 74,
     "sum_invoices": 62116.00,
     "avg_invoices": 839.405405,
@@ -6679,7 +6679,7 @@
   {
     "month": 11,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 460.00,
     "avg_invoices": 460.000000,
@@ -6767,7 +6767,7 @@
   {
     "month": 11,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 18200.00,
     "avg_invoices": 9100.000000,
@@ -6789,7 +6789,7 @@
   {
     "month": 11,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 6,
     "sum_invoices": 1104.00,
     "avg_invoices": 184.000000,
@@ -6844,7 +6844,7 @@
   {
     "month": 11,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 360.00,
     "avg_invoices": 360.000000,
@@ -6855,7 +6855,7 @@
   {
     "month": 11,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 230.00,
     "avg_invoices": 230.000000,
@@ -6899,7 +6899,7 @@
   {
     "month": 11,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 350.00,
     "avg_invoices": 350.000000,
@@ -6921,7 +6921,7 @@
   {
     "month": 11,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 5500.00,
     "avg_invoices": 5500.000000,
@@ -6932,7 +6932,7 @@
   {
     "month": 11,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 230.00,
     "avg_invoices": 230.000000,
@@ -6943,7 +6943,7 @@
   {
     "month": 11,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1150.00,
     "avg_invoices": 1150.000000,
@@ -7009,7 +7009,7 @@
   {
     "month": 12,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 67,
     "sum_invoices": 59246.50,
     "avg_invoices": 884.276119,
@@ -7020,7 +7020,7 @@
   {
     "month": 12,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 63,
     "sum_invoices": 60094.50,
     "avg_invoices": 953.880952,
@@ -7031,7 +7031,7 @@
   {
     "month": 12,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 71,
     "sum_invoices": 57424.00,
     "avg_invoices": 808.788732,
@@ -7042,7 +7042,7 @@
   {
     "month": 12,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 11,
     "sum_invoices": 4865.00,
     "avg_invoices": 442.272727,
@@ -7053,7 +7053,7 @@
   {
     "month": 12,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 1520.00,
     "avg_invoices": 760.000000,
@@ -7064,7 +7064,7 @@
   {
     "month": 12,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 4,
     "sum_invoices": 2820.00,
     "avg_invoices": 705.000000,
@@ -7075,7 +7075,7 @@
   {
     "month": 12,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 2100.00,
     "avg_invoices": 700.000000,
@@ -7086,7 +7086,7 @@
   {
     "month": 12,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 260.00,
     "avg_invoices": 260.000000,
@@ -7097,7 +7097,7 @@
   {
     "month": 12,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 4,
     "sum_invoices": 2100.00,
     "avg_invoices": 525.000000,
@@ -7185,7 +7185,7 @@
   {
     "month": 12,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 8,
     "sum_invoices": 7357.00,
     "avg_invoices": 919.625000,
@@ -7196,7 +7196,7 @@
   {
     "month": 12,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1500.00,
     "avg_invoices": 1500.000000,
@@ -7207,7 +7207,7 @@
   {
     "month": 12,
     "year": 2022,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 260.00,
     "avg_invoices": 260.000000,
@@ -7251,7 +7251,7 @@
   {
     "month": 1,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 14,
     "sum_invoices": 15672.00,
     "avg_invoices": 1119.428571,
@@ -7273,7 +7273,7 @@
   {
     "month": 1,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 18,
     "sum_invoices": 20056.00,
     "avg_invoices": 1114.222222,
@@ -7284,7 +7284,7 @@
   {
     "month": 1,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 34,
     "sum_invoices": 24433.00,
     "avg_invoices": 718.617647,
@@ -7295,7 +7295,7 @@
   {
     "month": 1,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 41,
     "sum_invoices": 32200.00,
     "avg_invoices": 785.365854,
@@ -7328,7 +7328,7 @@
   {
     "month": 1,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 38,
     "sum_invoices": 35210.00,
     "avg_invoices": 926.578947,
@@ -7339,7 +7339,7 @@
   {
     "month": 1,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 8,
     "sum_invoices": 9740.00,
     "avg_invoices": 1217.500000,
@@ -7350,7 +7350,7 @@
   {
     "month": 1,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 7,
     "sum_invoices": 6160.00,
     "avg_invoices": 880.000000,
@@ -7361,7 +7361,7 @@
   {
     "month": 1,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 7,
     "sum_invoices": 6350.00,
     "avg_invoices": 907.142857,
@@ -7372,7 +7372,7 @@
   {
     "month": 1,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 780.00,
     "avg_invoices": 260.000000,
@@ -7383,7 +7383,7 @@
   {
     "month": 1,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 230.00,
     "avg_invoices": 230.000000,
@@ -7416,7 +7416,7 @@
   {
     "month": 1,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 230.00,
     "avg_invoices": 230.000000,
@@ -7438,7 +7438,7 @@
   {
     "month": 1,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 705.00,
     "avg_invoices": 352.500000,
@@ -7493,7 +7493,7 @@
   {
     "month": 1,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 360.00,
     "avg_invoices": 360.000000,
@@ -7559,7 +7559,7 @@
   {
     "month": 1,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 230.00,
     "avg_invoices": 230.000000,
@@ -7570,7 +7570,7 @@
   {
     "month": 1,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 460.00,
     "avg_invoices": 460.000000,
@@ -7581,7 +7581,7 @@
   {
     "month": 1,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 690.00,
     "avg_invoices": 690.000000,
@@ -7592,7 +7592,7 @@
   {
     "month": 1,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 965.50,
     "avg_invoices": 482.750000,
@@ -7603,7 +7603,7 @@
   {
     "month": 1,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 5120.98,
     "avg_invoices": 1706.993333,
@@ -7625,7 +7625,7 @@
   {
     "month": 1,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 480.00,
     "avg_invoices": 480.000000,
@@ -7636,7 +7636,7 @@
   {
     "month": 1,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 310.00,
     "avg_invoices": 155.000000,
@@ -7647,7 +7647,7 @@
   {
     "month": 2,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 39,
     "sum_invoices": 38213.00,
     "avg_invoices": 979.820513,
@@ -7658,7 +7658,7 @@
   {
     "month": 2,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 33,
     "sum_invoices": 42149.00,
     "avg_invoices": 1277.242424,
@@ -7680,7 +7680,7 @@
   {
     "month": 2,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 39,
     "sum_invoices": 57343.50,
     "avg_invoices": 1470.346154,
@@ -7724,7 +7724,7 @@
   {
     "month": 2,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 7,
     "sum_invoices": 1255.00,
     "avg_invoices": 179.285714,
@@ -7746,7 +7746,7 @@
   {
     "month": 2,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 9,
     "sum_invoices": 11530.00,
     "avg_invoices": 1281.111111,
@@ -7757,7 +7757,7 @@
   {
     "month": 2,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 7,
     "sum_invoices": 9211.00,
     "avg_invoices": 1315.857143,
@@ -7768,7 +7768,7 @@
   {
     "month": 2,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 8,
     "sum_invoices": 16820.00,
     "avg_invoices": 2102.500000,
@@ -7779,7 +7779,7 @@
   {
     "month": 2,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 5,
     "sum_invoices": 7160.00,
     "avg_invoices": 1432.000000,
@@ -7790,7 +7790,7 @@
   {
     "month": 2,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 2200.00,
     "avg_invoices": 2200.000000,
@@ -7801,7 +7801,7 @@
   {
     "month": 2,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 13,
     "sum_invoices": 16225.00,
     "avg_invoices": 1248.076923,
@@ -7812,7 +7812,7 @@
   {
     "month": 2,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 4055.00,
     "avg_invoices": 4055.000000,
@@ -7977,7 +7977,7 @@
   {
     "month": 3,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 11,
     "sum_invoices": 1985.00,
     "avg_invoices": 180.454545,
@@ -7988,7 +7988,7 @@
   {
     "month": 3,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 117,
     "sum_invoices": 93804.00,
     "avg_invoices": 801.743590,
@@ -7999,7 +7999,7 @@
   {
     "month": 3,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 136,
     "sum_invoices": 105507.00,
     "avg_invoices": 775.786765,
@@ -8010,7 +8010,7 @@
   {
     "month": 3,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 204,
     "sum_invoices": 173747.00,
     "avg_invoices": 851.700980,
@@ -8021,7 +8021,7 @@
   {
     "month": 3,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 114,
     "sum_invoices": 92367.51,
     "avg_invoices": 810.241316,
@@ -8076,7 +8076,7 @@
   {
     "month": 3,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 1540.00,
     "avg_invoices": 770.000000,
@@ -8186,7 +8186,7 @@
   {
     "month": 3,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 460.00,
     "avg_invoices": 460.000000,
@@ -8197,7 +8197,7 @@
   {
     "month": 3,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 2065.00,
     "avg_invoices": 2065.000000,
@@ -8230,7 +8230,7 @@
   {
     "month": 3,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 965.00,
     "avg_invoices": 482.500000,
@@ -8252,7 +8252,7 @@
   {
     "month": 3,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 1330.00,
     "avg_invoices": 665.000000,
@@ -8296,7 +8296,7 @@
   {
     "month": 3,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 265.00,
     "avg_invoices": 132.500000,
@@ -8340,7 +8340,7 @@
   {
     "month": 3,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 1380.00,
     "avg_invoices": 690.000000,
@@ -8351,7 +8351,7 @@
   {
     "month": 4,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 40,
     "sum_invoices": 27563.00,
     "avg_invoices": 689.075000,
@@ -8373,7 +8373,7 @@
   {
     "month": 4,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 29,
     "sum_invoices": 27799.50,
     "avg_invoices": 958.603448,
@@ -8395,7 +8395,7 @@
   {
     "month": 4,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 42,
     "sum_invoices": 32690.50,
     "avg_invoices": 778.345238,
@@ -8406,7 +8406,7 @@
   {
     "month": 4,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 15,
     "sum_invoices": 4180.00,
     "avg_invoices": 278.666667,
@@ -8461,7 +8461,7 @@
   {
     "month": 4,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 46,
     "sum_invoices": 36170.00,
     "avg_invoices": 786.304348,
@@ -8472,7 +8472,7 @@
   {
     "month": 4,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 200.00,
     "avg_invoices": 200.000000,
@@ -8494,7 +8494,7 @@
   {
     "month": 4,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1320.00,
     "avg_invoices": 1320.000000,
@@ -8527,7 +8527,7 @@
   {
     "month": 4,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1610.00,
     "avg_invoices": 1610.000000,
@@ -8582,7 +8582,7 @@
   {
     "month": 4,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1610.00,
     "avg_invoices": 1610.000000,
@@ -8593,7 +8593,7 @@
   {
     "month": 4,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 2300.00,
     "avg_invoices": 2300.000000,
@@ -8604,7 +8604,7 @@
   {
     "month": 4,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 9200.00,
     "avg_invoices": 4600.000000,
@@ -8615,7 +8615,7 @@
   {
     "month": 4,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 4210.00,
     "avg_invoices": 2105.000000,
@@ -8637,7 +8637,7 @@
   {
     "month": 4,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 920.00,
     "avg_invoices": 460.000000,
@@ -8648,7 +8648,7 @@
   {
     "month": 5,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 27,
     "sum_invoices": 30133.98,
     "avg_invoices": 1116.073333,
@@ -8681,7 +8681,7 @@
   {
     "month": 5,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 56,
     "sum_invoices": 41503.48,
     "avg_invoices": 741.133571,
@@ -8725,7 +8725,7 @@
   {
     "month": 5,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 64,
     "sum_invoices": 44836.41,
     "avg_invoices": 700.568906,
@@ -8813,7 +8813,7 @@
   {
     "month": 5,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 9,
     "sum_invoices": 1260.00,
     "avg_invoices": 140.000000,
@@ -8824,7 +8824,7 @@
   {
     "month": 5,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 920.00,
     "avg_invoices": 920.000000,
@@ -8835,7 +8835,7 @@
   {
     "month": 5,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 865.00,
     "avg_invoices": 288.333333,
@@ -8857,7 +8857,7 @@
   {
     "month": 5,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1320.00,
     "avg_invoices": 1320.000000,
@@ -8890,7 +8890,7 @@
   {
     "month": 5,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 690.00,
     "avg_invoices": 345.000000,
@@ -8901,7 +8901,7 @@
   {
     "month": 5,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 200.00,
     "avg_invoices": 200.000000,
@@ -9055,7 +9055,7 @@
   {
     "month": 6,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 22,
     "sum_invoices": 14757.96,
     "avg_invoices": 670.816364,
@@ -9066,7 +9066,7 @@
   {
     "month": 6,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 25,
     "sum_invoices": 21143.99,
     "avg_invoices": 845.759600,
@@ -9077,7 +9077,7 @@
   {
     "month": 6,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 21,
     "sum_invoices": 14610.99,
     "avg_invoices": 695.761429,
@@ -9088,7 +9088,7 @@
   {
     "month": 6,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 500.00,
     "avg_invoices": 166.666667,
@@ -9099,7 +9099,7 @@
   {
     "month": 6,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 1119.99,
     "avg_invoices": 559.995000,
@@ -9110,7 +9110,7 @@
   {
     "month": 6,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 385.00,
     "avg_invoices": 385.000000,
@@ -9121,7 +9121,7 @@
   {
     "month": 7,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 70,
     "sum_invoices": 59062.50,
     "avg_invoices": 843.750000,
@@ -9132,7 +9132,7 @@
   {
     "month": 7,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 65,
     "sum_invoices": 56564.98,
     "avg_invoices": 870.230462,
@@ -9143,7 +9143,7 @@
   {
     "month": 7,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 83,
     "sum_invoices": 71294.96,
     "avg_invoices": 858.975422,
@@ -9154,7 +9154,7 @@
   {
     "month": 7,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 10,
     "sum_invoices": 4585.00,
     "avg_invoices": 458.500000,
@@ -9165,7 +9165,7 @@
   {
     "month": 7,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 420.00,
     "avg_invoices": 420.000000,
@@ -9176,7 +9176,7 @@
   {
     "month": 7,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 5,
     "sum_invoices": 6470.01,
     "avg_invoices": 1294.002000,
@@ -9187,7 +9187,7 @@
   {
     "month": 7,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 385.00,
     "avg_invoices": 385.000000,
@@ -9198,7 +9198,7 @@
   {
     "month": 7,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 1075.00,
     "avg_invoices": 537.500000,
@@ -9209,7 +9209,7 @@
   {
     "month": 7,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1120.00,
     "avg_invoices": 1120.000000,
@@ -9220,7 +9220,7 @@
   {
     "month": 8,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 67,
     "sum_invoices": 51640.41,
     "avg_invoices": 770.752388,
@@ -9231,7 +9231,7 @@
   {
     "month": 8,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 51,
     "sum_invoices": 40963.01,
     "avg_invoices": 803.196275,
@@ -9242,7 +9242,7 @@
   {
     "month": 8,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 47,
     "sum_invoices": 36749.97,
     "avg_invoices": 781.914255,
@@ -9253,7 +9253,7 @@
   {
     "month": 8,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 4,
     "sum_invoices": 450.00,
     "avg_invoices": 112.500000,
@@ -9264,7 +9264,7 @@
   {
     "month": 8,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 12,
     "sum_invoices": 9359.99,
     "avg_invoices": 779.999167,
@@ -9275,7 +9275,7 @@
   {
     "month": 8,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 11,
     "sum_invoices": 8458.01,
     "avg_invoices": 768.910000,
@@ -9286,7 +9286,7 @@
   {
     "month": 8,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 565.02,
     "avg_invoices": 282.510000,
@@ -9297,7 +9297,7 @@
   {
     "month": 8,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 6,
     "sum_invoices": 5181.00,
     "avg_invoices": 863.500000,
@@ -9385,7 +9385,7 @@
   {
     "month": 8,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 3,
     "sum_invoices": 579.00,
     "avg_invoices": 193.000000,
@@ -9396,7 +9396,7 @@
   {
     "month": 8,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 100.00,
     "avg_invoices": 100.000000,
@@ -9407,7 +9407,7 @@
   {
     "month": 8,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1725.99,
     "avg_invoices": 1725.990000,
@@ -9418,7 +9418,7 @@
   {
     "month": 8,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 862.99,
     "avg_invoices": 862.990000,
@@ -9429,7 +9429,7 @@
   {
     "month": 8,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 862.99,
     "avg_invoices": 862.990000,
@@ -9440,7 +9440,7 @@
   {
     "month": 8,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 578.00,
     "avg_invoices": 578.000000,
@@ -9484,7 +9484,7 @@
   {
     "month": 8,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 2248.98,
     "avg_invoices": 1124.490000,
@@ -9506,7 +9506,7 @@
   {
     "month": 8,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 920.00,
     "avg_invoices": 920.000000,
@@ -9528,7 +9528,7 @@
   {
     "month": 8,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 1173.00,
     "avg_invoices": 1173.000000,
@@ -9539,7 +9539,7 @@
   {
     "month": 9,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 2,
     "sum_invoices": 1156.00,
     "avg_invoices": 578.000000,
@@ -9550,7 +9550,7 @@
   {
     "month": 9,
     "year": 2023,
-    "emp_name": "نادر الصواحي",
+    "emp_name": "Nader",
     "num_invoices": 1,
     "sum_invoices": 200.01,
     "avg_invoices": 200.010000,
